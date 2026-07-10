@@ -38,20 +38,12 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7DD3FC,100:0EA5E9&height=2&width=1000" width="100%"/>
 </div>
-<br/>
-<br/>
 <h2 align="center">📡 Live Activity</h2>
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=1vidyasagar&theme=react-dark&color=7DD3FC&line=7DD3FC&point=ffffff&area=true&area_color=0EA5E9&hide_border=true&custom_title=Contribution%20Activity" width="100%"/>
 </div>
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0EA5E9,100:7DD3FC&height=2&width=1000" width="100%"/>
-</div>
-<br/>
-<h2 align="center">🗂️ Projects</h2>
-📌 Neeche tumhare pinned repositories apne aap show honge — GitHub ka native feature hai. Profile par jaakar Customize your pins se repo pin kar do.
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7DD3FC,100:0EA5E9&height=2&width=1000" width="100%"/>
 </div>
 <br/>
 <h2 align="center">🧬 Tech Stack</h2>
@@ -74,7 +66,6 @@ Databases
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0EA5E9,100:7DD3FC&height=2&width=1000" width="100%"/>
 </div>
-<br/>
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
@@ -95,8 +86,6 @@ Databases
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </div>
-<br/><br/>
+<br/>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:0EA5E9,100:0F172A&height=150&section=footer&animation=fadeIn" width="100%"/>
-<div align="center">
-<sub>✨ Thanks for scrolling — drop a ⭐ if you liked it!</sub>
-</div>
+
