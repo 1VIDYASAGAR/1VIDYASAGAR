@@ -38,19 +38,23 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7DD3FC,100:0EA5E9&height=2&width=1000" width="100%"/>
 </div>
-📡 Live Activity
+<br/>
+<br/>
+<h2 align="center">📡 Live Activity</h2>
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=1vidyasagar&theme=react-dark&color=7DD3FC&line=7DD3FC&point=ffffff&area=true&area_color=0EA5E9&hide_border=true&custom_title=Contribution%20Activity" width="100%"/>
 </div>
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0EA5E9,100:7DD3FC&height=2&width=1000" width="100%"/>
 </div>
-🗂️ Projects
+<br/>
+<h2 align="center">🗂️ Projects</h2>
 📌 Neeche tumhare pinned repositories apne aap show honge — GitHub ka native feature hai. Profile par jaakar Customize your pins se repo pin kar do.
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7DD3FC,100:0EA5E9&height=2&width=1000" width="100%"/>
 </div>
-🧬 Tech Stack
+<br/>
+<h2 align="center">🧬 Tech Stack</h2>
 <div align="center">
 Languages
 <img src="https://skillicons.dev/icons?i=cpp,dart,java,js,kotlin&theme=dark"/>
@@ -70,15 +74,18 @@ Databases
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0EA5E9,100:7DD3FC&height=2&width=1000" width="100%"/>
 </div>
-📊 GitHub Analytics
-<div align="center">
+<br/>
+<h2 align="center">📊 GitHub Analytics</h2>
 
-<img src="https://streak-stats.demolab.com?user=1vidyasagar&theme=nord&border=7DD3FC&stroke=7DD3FC&ring=7DD3FC&fire=7DD3FC&currStreakLabel=7DD3FC&background=0D1117" width="80%"/>
-</div>
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7DD3FC,100:0EA5E9&height=2&width=1000" width="100%"/>
+  <img src="https://streak-stats.demolab.com?user=1vidyasagar&theme=nord&border=7DD3FC&stroke=7DD3FC&ring=7DD3FC&fire=7DD3FC&currStreakLabel=7DD3FC&background=0D1117" width="80%" />
 </div>
-🌐 Socials
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7DD3FC,100:0EA5E9&height=2&width=1000" width="100%" />
+</div>
+<br/>
+<h2 align="center">🌐 Socials</h2>
 <div align="center">
 <a href="https://www.linkedin.com/in/vidya-sagar-singh-00a558342/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
