@@ -17,6 +17,7 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0EA5E9,100:7DD3FC&height=2&width=1000" width="100%"/>
 </div>
+<div style="font-weight: bold;">
 🪃 About Me
 Hi there 👋
 <br/>
@@ -39,6 +40,7 @@ Ask me about: MERN Stack, REST APIs, AWS, JavaScript, Python, Java and C++.
 Fun fact: I love building scalable cloud-powered applications.
 <br/>
 <br/>
+</div>
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7DD3FC,100:0EA5E9&height=2&width=1000" width="100%"/>
 </div>
@@ -76,7 +78,7 @@ Databases
 </div>
 📊 GitHub Analytics
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=1vidyasagar&show_icons=true&theme=nord&border_color=7DD3FC&title_color=7DD3FC&icon_color=7DD3FC&text_color=ffffff&include_all_commits=true&count_private=true" height="170"/>
+//<img src="https://github-readme-stats.vercel.app/api?username=1vidyasagar&show_icons=true&theme=nord&border_color=7DD3FC&title_color=7DD3FC&icon_color=7DD3FC&text_color=ffffff&include_all_commits=true&count_private=true" height="170"/>
   
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1vidyasagar&layout=compact&theme=nord&border_color=7DD3FC&title_color=7DD3FC&text_color=ffffff&langs_count=8" height="170"/>
 <br/><br/>
@@ -86,9 +88,9 @@ Databases
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7DD3FC,100:0EA5E9&height=2&width=1000" width="100%"/>
 </div>
 🏆 Trophies
-<div align="center">
+<!-- <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=1vidyasagar&theme=nord&no-frame=true&no-bg=true&row=1&column=7&margin-w=6&margin-h=6" width="100%"/>
-</div>
+</div> -->
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0EA5E9,100:7DD3FC&height=2&width=1000" width="100%"/>
 </div>
