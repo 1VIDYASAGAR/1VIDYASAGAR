@@ -17,23 +17,26 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0EA5E9,100:7DD3FC&height=2&width=1000" width="100%"/>
 </div>
-<div>
-<b>🪃 About Me</b><br><br>
+<h2>🪃 About Me</h2>
 
-<b>Hi there 👋</b><br><br>
+<p>
+I'm a passionate <strong>Software Developer</strong> with expertise in building scalable,
+performant, and user-centric applications across mobile, web, and cloud platforms.
+</p>
 
-<b>I'm currently working on:</b> Developing scalable full-stack web applications with seamless AWS cloud integration, focusing on high-performance backend systems, secure APIs, and efficient deployment pipelines.<br>
+<ul>
+  <li>🚀 Dedicated to transforming ideas into <strong>functional, efficient, and elegant solutions.</strong></li>
 
-<b>I'm looking to collaborate on:</b> Advanced Web Development projects leveraging AWS and cloud-native technologies.<br>
+  <li>💻 Proficient in <strong>Flutter, React.js, Node.js,Express and AWS</strong> — with hands-on experience in full product lifecycle.</li>
 
-<b>I'm looking for help with:</b> Distributed systems, AWS optimization, and CI/CD pipelines.<br>
+  <li>🐍 Exploring the power of <strong>Python</strong> in automation, data analysis, and backend services.</li>
 
-<b>I'm currently learning:</b> System Design, Advanced Backend Development, EC2, S3, Lambda, API Gateway and Deployment.<br>
+  <li>🌱 Actively learning <strong>AI/ML integration, system design, and modern cloud architectures</strong.></li>
 
-<b>Ask me about:</b> MERN Stack, REST APIs, AWS, JavaScript, Python, Java and C++.<br>
+  <li>🤝 Open to <strong>collaborations, contributions, and discussions</strong> on innovative tech projects.</li>
 
-<b>Fun fact:</b> I love building scalable cloud-powered applications.
-</div>
+  <li>📚 Advocate for <strong>clean code, documentation, and knowledge sharing</strong> in the developer community.</li>
+</ul>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7DD3FC,100:0EA5E9&height=2&width=1000" width="100%"/>
