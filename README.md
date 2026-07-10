@@ -17,30 +17,24 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0EA5E9,100:7DD3FC&height=2&width=1000" width="100%"/>
 </div>
-<div style="font-weight: bold;">
-🪃 About Me
-Hi there 👋
-<br/>
-<br/>
-I'm currently working on: Developing scalable full-stack web applications with seamless AWS cloud integration, focusing on high-performance backend systems, secure APIs, and efficient deployment pipelines.
-<br/>
-<br/>
-I'm looking to collaborate on: Advanced Web Development projects leveraging AWS and cloud-native technologies.
-<br/>
-<br/>
-I'm looking for help with: Distributed systems, AWS optimization, and CI/CD pipelines.
-<br/>
-<br/>
-I'm currently learning: System Design, Advanced Backend Development, EC2, S3, Lambda, API Gateway and Deployment.
-<br/>
-<br/>
-Ask me about: MERN Stack, REST APIs, AWS, JavaScript, Python, Java and C++.
-<br/>
-<br/>
-Fun fact: I love building scalable cloud-powered applications.
-<br/>
-<br/>
+<div>
+<b>🪃 About Me</b><br><br>
+
+<b>Hi there 👋</b><br><br>
+
+<b>I'm currently working on:</b> Developing scalable full-stack web applications with seamless AWS cloud integration, focusing on high-performance backend systems, secure APIs, and efficient deployment pipelines.<br><br>
+
+<b>I'm looking to collaborate on:</b> Advanced Web Development projects leveraging AWS and cloud-native technologies.<br><br>
+
+<b>I'm looking for help with:</b> Distributed systems, AWS optimization, and CI/CD pipelines.<br><br>
+
+<b>I'm currently learning:</b> System Design, Advanced Backend Development, EC2, S3, Lambda, API Gateway and Deployment.<br><br>
+
+<b>Ask me about:</b> MERN Stack, REST APIs, AWS, JavaScript, Python, Java and C++.<br><br>
+
+<b>Fun fact:</b> I love building scalable cloud-powered applications.
 </div>
+
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7DD3FC,100:0EA5E9&height=2&width=1000" width="100%"/>
 </div>
@@ -78,7 +72,7 @@ Databases
 </div>
 📊 GitHub Analytics
 <div align="center">
-//<img src="https://github-readme-stats.vercel.app/api?username=1vidyasagar&show_icons=true&theme=nord&border_color=7DD3FC&title_color=7DD3FC&icon_color=7DD3FC&text_color=ffffff&include_all_commits=true&count_private=true" height="170"/>
+username=1vidyasagar&show_icons=true&theme=nord&border_color=7DD3FC&title_color=7DD3FC&icon_color=7DD3FC&text_color=ffffff&include_all_commits=true&count_private=true" height="170"/>
   
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1vidyasagar&layout=compact&theme=nord&border_color=7DD3FC&title_color=7DD3FC&text_color=ffffff&langs_count=8" height="170"/>
 <br/><br/>
