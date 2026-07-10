@@ -72,19 +72,11 @@ Databases
 </div>
 📊 GitHub Analytics
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1vidyasagar&layout=compact&theme=nord&border_color=7DD3FC&title_color=7DD3FC&text_color=ffffff&langs_count=8" height="170"/>
-<br/><br/>
+
 <img src="https://streak-stats.demolab.com?user=1vidyasagar&theme=nord&border=7DD3FC&stroke=7DD3FC&ring=7DD3FC&fire=7DD3FC&currStreakLabel=7DD3FC&background=0D1117" width="80%"/>
 </div>
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7DD3FC,100:0EA5E9&height=2&width=1000" width="100%"/>
-</div>
-🏆 Trophies
-<!-- <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=1vidyasagar&theme=nord&no-frame=true&no-bg=true&row=1&column=7&margin-w=6&margin-h=6" width="100%"/>
-</div> -->
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0EA5E9,100:7DD3FC&height=2&width=1000" width="100%"/>
 </div>
 🌐 Socials
 <div align="center">
