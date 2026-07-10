@@ -22,15 +22,15 @@
 
 <b>Hi there 👋</b><br><br>
 
-<b>I'm currently working on:</b> Developing scalable full-stack web applications with seamless AWS cloud integration, focusing on high-performance backend systems, secure APIs, and efficient deployment pipelines.<br><br>
+<b>I'm currently working on:</b> Developing scalable full-stack web applications with seamless AWS cloud integration, focusing on high-performance backend systems, secure APIs, and efficient deployment pipelines.<br>
 
-<b>I'm looking to collaborate on:</b> Advanced Web Development projects leveraging AWS and cloud-native technologies.<br><br>
+<b>I'm looking to collaborate on:</b> Advanced Web Development projects leveraging AWS and cloud-native technologies.<br>
 
-<b>I'm looking for help with:</b> Distributed systems, AWS optimization, and CI/CD pipelines.<br><br>
+<b>I'm looking for help with:</b> Distributed systems, AWS optimization, and CI/CD pipelines.<br>
 
-<b>I'm currently learning:</b> System Design, Advanced Backend Development, EC2, S3, Lambda, API Gateway and Deployment.<br><br>
+<b>I'm currently learning:</b> System Design, Advanced Backend Development, EC2, S3, Lambda, API Gateway and Deployment.<br>
 
-<b>Ask me about:</b> MERN Stack, REST APIs, AWS, JavaScript, Python, Java and C++.<br><br>
+<b>Ask me about:</b> MERN Stack, REST APIs, AWS, JavaScript, Python, Java and C++.<br>
 
 <b>Fun fact:</b> I love building scalable cloud-powered applications.
 </div>
@@ -72,8 +72,6 @@ Databases
 </div>
 📊 GitHub Analytics
 <div align="center">
-username=1vidyasagar&show_icons=true&theme=nord&border_color=7DD3FC&title_color=7DD3FC&icon_color=7DD3FC&text_color=ffffff&include_all_commits=true&count_private=true" height="170"/>
-  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1vidyasagar&layout=compact&theme=nord&border_color=7DD3FC&title_color=7DD3FC&text_color=ffffff&langs_count=8" height="170"/>
 <br/><br/>
 <img src="https://streak-stats.demolab.com?user=1vidyasagar&theme=nord&border=7DD3FC&stroke=7DD3FC&ring=7DD3FC&fire=7DD3FC&currStreakLabel=7DD3FC&background=0D1117" width="80%"/>
