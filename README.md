@@ -19,8 +19,11 @@
 </div>
 🪃 About Me
 Hi there 👋
+<br/>
 I'm currently working on: Developing scalable full-stack web applications with seamless AWS cloud integration, focusing on high-performance backend systems, secure APIs, and efficient deployment pipelines.
+<br/>
 I'm looking to collaborate on: Advanced Web Development projects leveraging AWS and cloud-native technologies.
+<br>
 I'm looking for help with: Distributed systems, AWS optimization, and CI/CD pipelines.
 I'm currently learning: System Design, Advanced Backend Development, EC2, S3, Lambda, API Gateway and Deployment.
 Ask me about: MERN Stack, REST APIs, AWS, JavaScript, Python, Java and C++.
